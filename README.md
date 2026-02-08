@@ -1,2 +1,5 @@
-# -Sentiment-Analysis---NLP-using-Machine-Learning
-Sentiment analysis uses NLP techniques to automatically identify and classify emotions expressed in text
+# Sentiment Analysis Project
+
+## Overview
+This project uses Natural Language Processing (NLP) techniques to analyze text data and classify sentiment as **positive**, **negative**
+
